@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="[https://your-banner-link-here.png](https://imgur.com/a/bm0xXrJ)" alt="Onlyme Banner" width="800">
+</p>
 <h1 align="center">🌟 OnlyMe - Private Social Media for Close Friends</h1>
 
 <p align="center">
